@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarselvaraj-m&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarselvaraj-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumarselvaraj-m" alt="arunkumarselvaraj-m" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJs, SpringBoot**
 
 - 💬 Ask me about **Git Bash, GitHub Action, Docker, Jenkins, Kubernetes, Nginx, Shell Script, Python**
